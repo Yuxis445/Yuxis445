@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuxis445&label=Profile%20views&color=0e75b6&style=flat" alt="yuxis445" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuxis445" alt="yuxis445" /></a> </p>
+<p align="left"> <a width="30" height="30" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuxis445" alt="yuxis445" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Jss**
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuxis445&show_icons=true&locale=en&layout=compact" alt="yuxis445" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuxis445&show_icons=true&locale=en" alt="yuxis445" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yuxis445&show_icons=true&locale=en" alt="yuxis445" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuxis445&" alt="yuxis445" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuxis445&" alt="yuxis445" /></p>
