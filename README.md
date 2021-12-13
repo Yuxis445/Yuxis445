@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joao Victor Lopes</h1>
 <h3 align="center">A Beginner Full-stack developer from Brazil</h3>
 
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuxis445&label=Profile%20views&color=0e75b6&style=flat" alt="yuxis445" /> </p>
 
-<p align="left"> <a width="30" height="30" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuxis445&show_icons=true&theme=dracula&include_all_commits=true&count_private=truelocale=en&layout=compact" alt="yuxis445" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java,Jss**
 
